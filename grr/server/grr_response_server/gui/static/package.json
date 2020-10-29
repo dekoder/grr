@@ -7,7 +7,7 @@
     "angular-animate": "1.7.3",
     "angular-cookies": "1.7.3",
     "angular-resource": "1.7.3",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "font-awesome": "4.6.3",
     "jstree": "3.3.2",
     "Flot": "git+https://github.com/flot/flot.git#v0.8.3",
